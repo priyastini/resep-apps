@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg1"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.dessy.resepmamake.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/masakan_appbar"
+        android:background="@drawable/bg1"
+        android:layout_width="match_parent"
+        android:layout_height="254dp"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/viewPager"
+                    android:layout_width="match_parent"
+                    android:layout_height="230dp"/>
+
+                <LinearLayout
+                    android:id="@+id/SliderDots"
+                    android:orientation="horizontal"
+                    android:layout_below="@+id/viewPager"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </LinearLayout>
+            </RelativeLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/SliderDots"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:clickable="true"
+            android:id="@+id/im_katMasakan"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:contextClickable="true"
+            android:background="@drawable/button1"/>
+
+        <ImageView
+            android:clickable="true"
+            android:contextClickable="true"
+            android:id="@+id/im_katMinuman"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:background="@drawable/button2"/>
+
+        <ImageView
+            android:clickable="true"
+            android:contextClickable="true"
+            android:id="@+id/im_katKue"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:background="@drawable/button3"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

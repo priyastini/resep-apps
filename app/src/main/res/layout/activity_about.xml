@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical"
+    tools:context="com.example.dessy.resepmamake.AboutActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:src="@drawable/hiresslider1"/>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="About Us"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:background="@color/colorPrimary"/>
+
+            <TextView
+                android:id="@+id/tv_about"
+                android:background="@drawable/side_nav_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:text="Resep Dapur Mamake merupakan aplikasi mobile yang berisi kumpulan aneka resep masakan Indonesia yang terdiri dari resep masakan, resep minuman, dan resep aneka kue.\n\n Version 1.0 "
+                android:layout_marginTop="10dp"
+                android:padding="8dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Developer"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:background="@color/colorPrimary"/>
+
+            <TextView
+                android:id="@+id/tv_about"
+                android:background="@drawable/side_nav_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:text=" Kelompok 3 - Progmob(B)\n\n Priyastini Dessy (1605551031)\n Mega Handayani (1605551030) \n Visvani Yustisia (1605551036)\n Dewik Elianti (1605551038)\n "
+                android:layout_marginTop="10dp"
+                android:padding="8dp"/>
+
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+
+</LinearLayout>

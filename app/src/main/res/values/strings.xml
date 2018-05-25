@@ -1,0 +1,280 @@
+<resources>
+    <string name="app_name">ResepMamake</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_masakan">Resep Masakan</string>
+    <string name="title_activity_minuman">Resep Minuman</string>
+    <string name="title_activity_kue">Resep Kue</string>
+
+    <string name="makanan_gadogado">
+        Bahan-Bahan: \n
+        • Sayuran \n
+        • Kentang 500 gram yang di rebus\n
+        • Ketimun 1 batang kupas tipis \n
+        • Tauge 200 gram lalu direbus \n
+        • Telur ayam rebus \n
+        • Kacang panjang, potong sepanjang 2 cm \n
+        • Tomat 1 buah, iris menjadi 5 bagian \n
+        • Daun Selada \n \n
+
+        Bumbu Saus: \n
+        • Kacang tanah sebanyak 300 gram. Bersihkan kulitnya lalu kacang digoreng \n
+        • Cabai merah 4 buah  \n
+        • Bawang putih 6 siung \n
+        • Kencur sekitar 6 cm \n
+        • Terasi secukupnya \n
+        • Asam Jawa secukupnya \n
+        • Garam 1 sdm \n
+        • Daun jeruk \n
+        • Gula merah sebanyak 3 sdm \n \n
+
+        Cara Memasak: \n
+        1. Pertama-tama haluskan kacang tanah, bawang putih, terasi, daun jeruk, dan gula merah. Tambahkan air agar tidak terasa terlalu kental. Anda bisa menambahkan jumlah cabai bila suka constactor pedas. \n
+        2. Di piring terpisah, Anda bisa menyiapkan sayuran untuk dimakan bersama gado-gado. \n
+        3. Setelah siap, siramkan saus tadi ke atas sayuran dan tambahkan kerupuk sebagai pelengkapannya. \n
+    </string>
+
+    <string name="makanan_SupTomat">
+        Bahan-Bahan: \n
+        • Tomat sebanyak 4 buah. Setelah direbus, bersihkan kulit dan bijinya lalu dihaluskan \n
+        • Wortel 1 buah, potong kecil-kecil \n
+        • Bawang merah sebanyak 5 siung \n
+        • Ayam tanpa tulang, potong dadu kecil-kecil \n
+        • Buncis 80 gram, potong kira-kira sepanjang 1-2 cm \n
+        • Minyak goreng \n
+        • Garam 1 sendok makan \n
+        • Gula pasir 1 sendok teh \n
+        • Merica bubuk secukupnya \n
+        • Kecap manis 1 sendok makan \n
+        • Saus tomat 85 gram \n
+        • Air kaldu ayam 1850 milliliter \n \n
+
+        Cara Membuat: \n
+        1. Panaskan minyak setelah itu tumis bawang merah \n
+        2. Setelah berbau harum, masukan kaldu ayam dan tunggu sampai mendidih \n
+        3. Masukan bumbu-bumbu seperti merica, garam, gula pasir, kecap manis, saos tomat, dan kecap. Aduk-aduk sampai mendidih \n
+        4. Yang terakhir, masukan buncis, wortel, dan ayam. Aduk sebentar sampai semua tercampur lalu biarkan sampai mendidih \n
+        5. Sop tomat pun siap disantap \n
+    </string>
+
+    <string name="makanan_JamurCrispy">
+        Bahan-bahan: \n
+        • Jamur tiram 500 gram, diiris tipis-tipis \n
+        • Tepung Crispy \n
+        • Tepung Maizena \n
+        • Garam secukupnya \n
+        • Bawang putih 3 siung \n
+        • Gula pasir \n
+        • Lada bubuk \n
+        • Minyak goreng \n \n
+
+        Cara Membuat: \n
+        1. Cuci jamur sampai bersih. Campur garam, bawang putih,gula pasir dan lada bubuk jadi satu \n
+        2. Campur tepung maizena dengan air dingin. Masukan bumbu-bumbu constactor tadi. Lalu balurkan pada jamur \n
+        3. Setelah itu, lapisi jamur dengan tepung Crispy dan jamur siap digoreng. Resep constactor nusantara ini pun siap dihidangkan \n
+    </string>
+
+    <string name="makanan_TempePenyet">
+        Bahan-bahan: \n
+        • Bawang putih 5 siung \n
+        • Cabe merah 5 buah \n
+        • Tempe \n
+        • Gula dan garam \n \n
+
+        Cara Membuat: \n
+        1. Iris tipis-tipis tempe dan goreng setengah matang. Tiriskan sejenak \n
+        2. Goreng bawang dan cabai sampai halus. Apabila suka, bisa ditambahkan terasi kedalamnya \n
+        3. Untuk membuat sambal, campur bawang dan cabe tadi dengan gula dan garam. Resep constactor Indonesia ini bersifat relatif. Artinya, Anda bisa mengatur pedas dan gurihnya sesuai selera \n
+        4. Sajikan dengan nasi putih yang masih hangat \n
+    </string>
+
+    <string name="makanan_OrekTempe">
+        Bahan-bahan: \n
+        • Tempe 500 gram. Potong kecil-kecil berbentuk dadu \n
+        • Lengkuas 2 siung, kupas kulitnya \n
+        • Daun salam 1 lembar \n
+        • Kecap manis \n
+        • Gula, garam, minyak \n
+        • Penyedap rasa \n \n
+
+        Cara Membuat: \n
+        1. Tumis bawang putih dengan minyak sampai berbau harum. Setelah itu, masukan daun salam dan lengkuas lalu tumis kembali sampai berubah warna \n
+        2. Setelah matang, masukan tempe, gula, garam, penyedap rasa, dan kecap. Tumis hingga tercampur merata \n
+        3. Tambahkan air secukupnya lalu tunggu sampai matang. Masakan Indonesia yang lezat ini pun siap dihidangkan \n
+    </string>
+
+    <string name="makanan_SateIkan">
+        Bahan-bahan: \n
+        • Ikan tengiri fillet, 500 gram atau sesuai selera \n
+        • Margarin atau minyak \n
+        • Bawang merah 4 siung \n
+        • Bawang putih 5 siung \n
+        • Kemiri \n
+        • Jintan 1/2 sendok makan \n
+        • Jahe 2 cm \n
+        • Kunyit 3 cm \n
+        • Merica bubuk \n \n
+
+        Cara Membuat: \n
+        1. Potong ikan tengiri kecil-kecil sesuai selera lalu tusuk-tusuk seperti sate \n
+        2.  Tumbuk jadi satu bawang merah, bawang putih, jintan, jahe, kunyit, kemiri, dan merica. Kalau sudah tercampur, beri margarin atau minyak goreng sedikit saja \n
+        3.  Siapkan frying pan atau tempat memanggang barbekyu bila ada. Jangan lupa untuk diolesi margarin. Bakar sate diatasnya sambil diolesi bumbu-bumbu tadi \n
+        4. Sate ikan tengiri siap dihidangkan dengan anek resep constactor kesukaan Anda yang lain \n
+    </string>
+
+    <string name="makanan_PerkedelIkanTuna">
+        Bahan-bahan: \n
+        • Ikan Tuna fillet 500 gram, haluskan \n
+        • Kentang 5 buah. Kupas kulitnya dan goreng setengah matang lalu haluskan \n
+        • Bawang merah 5 siung \n
+        • Bawang putih 5 siung \n
+        • Telur 2 butir \n
+        • Garam dan merica secukupnya \n
+        • Merica dan penyedap rasa \n \n
+
+        Cara Membuat: \n
+        1. Tumis bawang merah dan bawang putih setengah matang \n
+        2. Haluskan bawang putih, bawang merah, garam dan lada/merica \n
+        3. Campurkan kentang yang sudah dihaluskan dengan ikan tuna halus. Setelah itu masukan bumbu. Tambahan telur agar adonan tidak hancur \n
+        4. Goreng dengan minyak panas. Apabila sudah berwarna kemerahan, angkat dan tiriskan \n
+    </string>
+
+    <string name="makanan_PerkedeKentang">
+        Bahan : \n
+        • 500ml Minyak untuk menggoreng \n
+        • 500 gr kentang, kupas bersih \n
+        • 1 batang daun seledri, diiris-iris halus \n
+        • 1 butir telur \n
+        • 1 buah bawang merah \n
+        • 1/4 sdt merica bubuk \n
+        • 1/4 sdt pala bubuk \n
+        • 1/2 sdt garam \n \n
+
+        Cara Membuat: \n
+        1. Panaskan minyak goreng kedalam wajan, masukkan kentang. \n
+        2. Masak hingga berubah warna dan empuk. Angkat tiriskan sebentar. \n
+        3. Di dalam cobek yang besar, segera masukkan kentang yang selesai digoreng (masih panas), haluskan. \n
+        4. Setelah kentang halus, tambahkan seledri, merica bubuk, pala, garam, kuning telur, dan bawang merah. Aduk-aduk hingga rata. \n
+        5. Bentuk adonan kentang yang sudah tercampur dengan bumbu menjadi bulatan-bulatan pipih atau bentuk perkedel sampai habis. \n
+        6. Panaskan minyak goreng. Sementara itu kocok lepas telur. \n
+        7. Jika minyak goreng sudah panas, celupkan setiap perkedel kedalam putih telur hingga rata sebelum digoreng. \n
+        8. Goreng perkedel hingga warnanya berubah kuning kecoklatan, jaga dan dibalik agar merata dan jangan sampai gosong. Angkat, tiriskan. \n
+
+    </string>
+
+    <string name="makanan_SayurAsem">
+        Bahan : \n
+        • 150 gr nangka muda \n
+        • 2 buah jagung manis, masing-masing potong 3 bagian \n
+        • 60 gr kacang tanah \n
+        • ¼ buah pepaya muda \n
+        • 50 gr daun melinjo \n
+        • 150 gr kacang panjang \n
+        • 1 liter air \n \n
+
+        Bumbu Halus : \n
+        • 2 buah cabai merah \n
+        • 3 butir bawang merah \n
+        • 1 sdt terasi bakar \n
+        • 1 sdm garam \n
+        • 1 sdt gula \n
+        • 1 cm lengkuas \n
+        • 2 lembar daun salam \n
+        • 3 buah asam muda \n
+        • 2 buah tomat \n \n
+
+        Cara Membuatnya : \n
+        1. Rebus tetelan dalam air hingga empuk, masukkan nangka muda, melinjo, kacang tanah, lengkuas, asam jawa dan daun salam. Masukkan tomat hingga setengah matang. \n
+        2. Ambil mangkok, angkat tomat dari panci hancurkan tomat dalam mangkok, beri sedikit kuah, saring. Masukkan air tomat ke dalam panci kembali. \n
+        3. Masukkan bumbu yang telah dihaluskan, didihkan kembali, masukkan pepaya muda, jagung manis, terakhir daun melinjo.masak sebentar. Sajikan. \n
+    </string>
+
+    <string name="makanan_NasiGoreng">
+        Bahan : \n
+        • 4 piring nasi putih \n
+        • 200 gram udang goreng \n
+        • 100 gram dada ayam goreng \n
+        • 2 buah cabai merah \n
+        • 2 sendok makan kecap manis \n
+        • 2 sendok makan saos tomat \n
+        • Mentega secukupnya \n \n
+
+        Bumbu Halus : \n
+        • 5 siung bawang merah \n
+        • 3 siung bawang putih \n
+        • 1 sendok teh garam \n
+        • 1/2 sendok teh gula pasir \n
+        • 1/2 sendok teh terasi \n \n
+
+        Bahan Pelengkap : \n
+        • 4 butir telur ceplok \n
+        • Bawang goreng secukupnya \n \n
+
+        Cara Membuatnya : \n
+        1. Panaskan mentega, lalu masukkan bumbu-bumbu yang telah dihaluskan dan cabai merah, setelah itu masak hingga berbau harum. \n
+        2. Masukkan nasi, ayam dan udang, kemudian aduk-aduk hingga rata dan semua bahan tercampur menjadi satu dengan sempurna. \n
+        3. Angkat dan nasi goreng spesial siap disajikan selagi hangat dengan bahan pelengkapnya. \n
+    </string>
+
+    <string name="minuman_TaroLatte">
+        Bahan : \n
+        • 2 sendok teh bubuk taro \n
+        • 240 ml susu putih cair \n
+        • Gula pasir sesuai selera \n
+        • 100 ml air hangat \n
+        • Es batu secukupnya \n \n
+
+        Cara membuatnya:  \n
+        1. Larutkan bubuk taro menggunakan air hangat. Kocok selama 30 detik sampai permukaannya berbuih. \n
+        2. Masukkan susu ke dalam botol atau tempat minum. Tutup rapat dan kocok sekitar 1 menit untuk membuat buih di permukaannya. \n
+        3. Siapkan es batu secukupnya ke dalam gelas. Tuangkan larutan taro, gula pasir, dan susu yang sudah dikocok. \n
+        4. Aduk rata semua bahan di dalam gelas tersebut. \n
+        5. Sudah jadi deh taro latte-nya! Minum taro latte ini sambil nonton drama Korea atau film romantis ya, supaya terasa semakin manis. \n
+        6. Es Jeruk Nipis \n
+    </string>
+
+    <string name="minuman_JerukNipis">
+        Bahan-bahan: \n
+        • 100 ml air jeruk nipis \n
+        • 500 ml air \n
+        • 500 gram gula pasir \n \n
+
+        Cara membuat: \n
+        1. Campur air dengan gula pasir, rebus hingga mendidih dan gula hancur, buang buihnya dan dinginkan. \n
+        2. Saring dan masukkan ke dalam botol. \n
+        3. Hidangkan sebagai constactor penyegar dengan ditambah air. \n
+        4. Dapat disajikan hangat maupun dingin. \n
+
+    </string>
+
+    <string name="minuman_BlueSunkist">
+        Bahan-bahan: \n
+        • 150 ml pepsi blue \n
+        • 50 ml jus jeruk (buavita jeruk) \n
+        • 1 buah strawberry \n
+        • Es batu secukupnya \n \n
+
+        Cara membuat: \n
+        1. Masukan jus jeruk kedalam jus glass. \n
+        2. Masukan es batu hingga penuh. Lalu masukan pepsi blue dengan cara layering. \n
+        3. Beri garnish strawberry, dan blue sunrise mocktail ready to serve. \n
+    </string>
+
+    <string name="minuman_CookiestMilk">
+       Bahan : \n
+        • 1 Sachet skm (putih/coklat sesuka hati) \n
+        • 2 Bungkus GoodTime atau oreo \n
+        •  Es Batu secukup nya \n
+        • Secukupnya Air \n \n
+
+        Cara membuat: \n
+        1. Cairkan susu dengan air, tidak usah terlalu banyak biar lembut \n
+        2. Masukan susu, es batu dan goodtime ke dalam blender \n
+        3. Blender sampai lembut \n
+    </string>
+
+
+</resources>
